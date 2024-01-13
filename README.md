@@ -1,11 +1,11 @@
 # Obsidian
 A [Foundry VTT](https://foundryvtt.com/) module that provides dark themed character sheets for dnd5e with rich, high-level automation features, and powerful vehicle sheets.
 
-![character sheet](https://bitbucket.org/Fyorl/obsidian/raw/master/tova.webp)
+![character sheet](https://github.com/alandfranco/obsidian/raw/master/tova.webp)
 
-![npc sheet](https://bitbucket.org/Fyorl/obsidian/raw/master/lich.webp)
+![npc sheet](https://github.com/alandfranco/obsidian/raw/master/lich.webp)
 
-![vehicle layout](https://bitbucket.org/Fyorl/obsidian/raw/master/warship.webp)
+![vehicle layout](https://github.com/alandfranco/obsidian/raw/master/warship.webp)
 
 ## Bug Reports
 If you discover an issue with the sheet or any other functionality the module provides, please report it in the [issue tracker](https://bitbucket.org/Fyorl/obsidian/issues) and ensure you include the following information:
